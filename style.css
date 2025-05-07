@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: black;
+}
+
+
+header {
+    background: rgb(112, 112, 154);
+    color: aliceblue;
+    padding: 2rem;
+    text-align: center;
+}
+
+nav {
+background: rgb(74, 74, 106);
+padding: 0.5;
+text-align: center;
+}
+
+nav a {
+    color: aliceblue;
+    margin: 0 1rem;
+    text-decoration: none;
+}
+
+main {
+    padding: 2rem;
+}
+
+section {
+margin-bottom: 2rem;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #ccc;
+
+}
